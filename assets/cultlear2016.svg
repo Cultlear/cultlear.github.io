@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="401px" height="982px" viewBox="0 0 401 982" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>cultlear2016 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Cultlear" sketch:type="MSLayerGroup">
+            <path d="M0,491 L0,0 L401,0 L401,491 L401,982 L0,982 L0,491 L0,491 L0,491 Z M40,41 L40,940 L360,940 L360,41 L40,41 L40,41 Z" id="Rectangle-1" fill="#9E2C2C" sketch:type="MSShapeGroup"></path>
+            <g id="Group" transform="translate(59.000000, 62.000000)" sketch:type="MSShapeGroup">
+                <path d="M30,0 L0,0 L0,200 L30,200 L30,200 L140,200 L140,160 L40,160 L40,40 L140,40 L140,0 L30,0 L30,0 Z" id="Rectangle-26" fill="#9E2C2C"></path>
+                <path d="M30,420 L0,420 L0,220 L40,220 L40,380 L100,380 L100,420 L30,420 L30,420 Z" id="Rectangle-26" fill="#9E2C2C"></path>
+                <path d="M160,260 L160,420 L120,420 L120,260 L60,260 L60,220 L130,220 L150,220 L220,220 L220,260 L160,260 L160,260 Z" id="Rectangle-26" fill="#9E2C2C"></path>
+                <path d="M240,380 L240,220 L280,220 L280,420 L250,420 L180,420 L180,380 L240,380 L240,380 Z" id="Rectangle-26" fill="#9E2C2C"></path>
+                <path d="M196,200 L160,200 L160,0 L200,0 L200,160 L240,160 L240,0 L280,0 L280,200 L244.5,200 L196,200 L196,200 Z" id="Rectangle-26" fill="#9E2C2C"></path>
+                <path d="M201,520 L201,480 L241,480 L241,520 L201,520 L201,520 Z M201,560 L201,640 L161,640 L161,440 L195,440 L252,440 L281,440 L281,640 L241,640 L241,560 L201,560 L201,560 Z" id="Rectangle-10" fill="#9E2D2D"></path>
+                <path d="M35.5,640 L1,640 L1,440 L27,440 L141,440 L141,480 L41,480 L41,520 L141,520 L141,560 L41,560 L41,600 L141.074219,600 L141.074219,640 L35.5,640 L35.5,640 Z" id="Rectangle-10" fill="#9E2D2D"></path>
+                <path d="M41,740 L41,700 L101,700 L101,740 L141,740 L141,660 L101.5,660 L40.6308594,660 L1,660 L1,860 L41,860 L41,780 L101,780 L101,740 L41,740 L41,740 Z M101,760 L101,860 L141,860 L141,760 L101,760 L101,760 Z" id="Rectangle-10" fill="#9E2D2D"></path>
+                <rect id="Rectangle-23" fill="#9E2D2D" x="161" y="660" width="160" height="231"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
